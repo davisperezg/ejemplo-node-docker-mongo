@@ -1,5 +1,5 @@
-1. npm i
+```npm i```
 
-2. docker-compose build
+```docker-compose build```
 
-3. docker-compose up
+```docker-compose up```
